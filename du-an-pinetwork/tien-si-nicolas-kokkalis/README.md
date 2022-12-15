@@ -1,0 +1,12 @@
+# Tiến Sĩ Nicolas Kokkalis
+
+## ****
+
+****![](broken-reference)****
+
+### **Trưởng phòng công nghệ**
+
+Tiến sĩ Stanford và giảng viên của lớp ứng dụng phi tập trung đầu tiên của Stanford; kết hợp các hệ thống phân tán và tương tác máy tính của con người để mang tiền mã hóa đến với mọi người.Tôi đã là một nhà công nghệ trong suốt cuộc đời mình, điều đó giúp tôi có bằng tiến sĩ tại Đại học Stanford và tiếp tục trở thành Học giả sau tiến sĩ tại khoa Khoa học Máy tính ở đó. Tôi đã giới thiệu và dạy CS359B, Ứng dụng phi tập trung trên lớp Blockchain, trong khoa Khoa học máy tính của Stanford. Đó là nơi tôi gặp phải khó khăn khi đưa những tiến bộ công nghệ của Blockchain vào tay người thường. Tôi tin rằng công nghệ ngày nay có thể trao quyền cho mọi người hơn bao giờ hết.\
+Là một sinh viên trẻ, tôi đã thiết kế và xây dựng một bo mạch chủ máy tính mới từ đầu trong phòng thí nghiệm. Trong công việc tiến sĩ đầu tiên của mình, tôi đã tạo ra một khuôn khổ để viết các hợp đồng thông minh, trên các hệ thống phân tán chịu lỗi, trước khi Blockchain và Ethereum ra đời và xuất bản nó dưới dạng luận án thạc sĩ khoa học tự nhiên của tôi. Tôi cũng đã tạo ra một nền tảng trò chơi trực tuyến, Gameyola, nơi hàng triệu người có thể giải trí, công việc tiến sĩ sau này của tôi, tôi đã cố gắng khôi phục những năm tháng đó bằng cách viết một trợ lý email hỗ trợ đám đông giúp mọi người tiết kiệm thời gian khi xử lý email và nhiệm vụ của họ. Ngoài ra, tôi là CTO sáng lập tại StartX, một công cụ tăng tốc khởi nghiệp phi lợi nhuận cho sinh viên Stanford đã giúp đỡ hơn 2000 doanh nhân.\
+Tôi là một người tin tưởng mạnh mẽ và lâu dài về tiềm năng kỹ thuật, tài chính và xã hội của tiền mã hóa, nhưng thất vọng vì những hạn chế hiện tại của họ. Tôi cam kết mang sức mạnh của blockchain đến nhiều người hơn bằng cách cải thiện trải nghiệm hiện tại và xây dựng giá trị cho mọi người. Tôi đang làm điều này bằng cách sử dụng triết lý thiết kế lấy người dùng làm trung tâm, làm cho quá trình phát triển của các chuỗi khối mới bị đảo lộn: Khởi chạy trong bản Beta; mời các thành viên vào mạng lưới; Lặp lại giao thức cùng với các thành viên; phân cấp thiết kế kết quả.\
+Kết quả hiện có sẵn dưới dạng Mạng Pi, một loại tiền mã hóa mới và mạng ngang hàng, hiện đang hoạt động ở hơn 150 quốc gia và 32 ngôn ngữ. Pi Network là 100% cam kết nghề nghiệp của tôi, trong khi vợ và con trai yêu thương của tôi chiếm 100% cam kết cá nhân của tôi.
